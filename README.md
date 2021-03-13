@@ -9,7 +9,7 @@ For real-time chat, please contact me on [<img src="https://github.com/vector-im
 [Research Overview](https://mefuller.github.io)
 
 
-[![Fuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefuller)](https://github.com/anuraghazra/github-readme-stats)
+[![Fuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefuller)](https://github.com/anuraghazra/github-readme-stats?theme=react)
 
 
 <!-- Icons -->
