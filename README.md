@@ -19,5 +19,3 @@ For real-time chat, please contact me on [<img src="https://github.com/vector-im
 <!-- Links to your social media accounts -->
 
 [1]: https://matrix.to/#/@mefuller:matrix.org
-
-<noscript><a href="https://liberapay.com/fuller/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
