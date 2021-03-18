@@ -12,6 +12,8 @@ For real-time chat, please contact me on [<img src="https://github.com/vector-im
 ![Fuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefuller&theme=react&show_icons=true)
 
 
+<noscript><a href="https://liberapay.com/fuller/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 <!-- Icons -->
 <!-- https://github.com/vector-im/logos/blob/master/matrix/matrix-logo.png -->
 
