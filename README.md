@@ -9,7 +9,7 @@ For real-time chat, please contact me on [<img src="https://github.com/vector-im
 [Research Overview](https://mefuller.github.io)
 
 
-![Fuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefuller&theme=react&show_icons=true)
+![Fuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefuller&theme=default&show_icons=true)
 
 
 <noscript><a href="https://liberapay.com/fuller/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
