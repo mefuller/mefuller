@@ -15,6 +15,9 @@ Strong interest in developing and supporting open [standards](https://github.com
   
 [Dana Lab at the Technion](https://dana.net.technion.ac.il/research/)
 
+[Cantera RPM for Fedora Linux](https://copr.fedorainfracloud.org/coprs/fuller/Cantera/):
+<img src="https://copr.fedorainfracloud.org/coprs/fuller/Cantera/package/cantera/status_image/last_build.png" height="20" alt="cantera copr"/>
+
 <noscript><a href="https://liberapay.com/fuller/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ![Fuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefuller&theme=default&show_icons=true)
