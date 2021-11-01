@@ -18,9 +18,6 @@ Strong interest in developing and supporting open [standards](https://github.com
 [Cantera RPM for Fedora Linux](https://copr.fedorainfracloud.org/coprs/fuller/Cantera/monitor/):
 <img src="https://copr.fedorainfracloud.org/coprs/fuller/Cantera/package/cantera/status_image/last_build.png" height="20" alt="cantera copr"/>
 
-[Cantera RPM for Fedora Linux - Rawhide](https://copr.fedorainfracloud.org/coprs/fuller/Cantera-Rawhide/monitor/):
-<img src="https://copr.fedorainfracloud.org/coprs/fuller/Cantera-Rawhide/package/cantera/status_image/last_build.png" height="20" alt="cantera-rawhide copr"/>
-
 [Cantera RPM for CentOS Stream & EPEL](https://copr.fedorainfracloud.org/coprs/fuller/Cantera-EL/monitor/):
 <img src="https://copr.fedorainfracloud.org/coprs/fuller/Cantera-EL/package/cantera/status_image/last_build.png" height="20" alt="cantera-epel copr"/>
 
