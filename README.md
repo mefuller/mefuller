@@ -11,6 +11,8 @@
 Research engineer in combustion chemistry, energy systems, and air pollution. Open science and open software end-user, advocate, and contributor.
 
 Strong interest in developing and supporting open [standards](https://github.com/pr-omethe-us/PyKED) and [databases](https://github.com/jiweiqi/CollectionOfMechanisms) for [experimental](https://github.com/pr-omethe-us/ChemKED-database) (and [computational](https://github.com/TCKDB)) results to improve validation targets and reduce duplicated efforts.
+
+Fedora Linux enthusiast and community member.
 </p>
 
 [Personal Research Overview](https://mefuller.github.io)
