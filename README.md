@@ -19,7 +19,7 @@ Strong interest in developing and supporting open [standards](https://github.com
   
 [Dana Lab at the Technion](https://dana.net.technion.ac.il/research/)
 
-[Cantera RPM for Fedora Linux & EPEL](https://copr.fedorainfracloud.org/coprs/fuller/Cantera/monitor/):
+[Cantera RPM for Fedora Linux](https://copr.fedorainfracloud.org/coprs/fuller/Cantera/monitor/):
 <img src="https://copr.fedorainfracloud.org/coprs/fuller/Cantera/package/cantera/status_image/last_build.png" height="20" alt="cantera copr"/>
 
 [Cantera RPM for CentOS Stream & EPEL](https://copr.fedorainfracloud.org/coprs/fuller/Cantera-EL/monitor/):
