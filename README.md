@@ -8,13 +8,13 @@
 
 
 <p>
-Research engineer in combustion chemistry, energy systems, and air pollution.
+Currently working as DevOps/MLOps engineer, formerly research engineer in combustion chemistry, energy systems, and air pollution as various chemical and mechanical engineering departments.
 
 Open science and open software end-user, advocate, and contributor.
 
 Strong interest in developing and supporting open [standards](https://github.com/pr-omethe-us/PyKED) and [databases](https://github.com/jiweiqi/CollectionOfMechanisms) for [experimental](https://github.com/pr-omethe-us/ChemKED-database) (and [computational](https://github.com/TCKDB)) results to improve validation targets and reduce duplicated efforts.
 
-(Fedora) Linux enthusiast and contributor (mostly testing and a little packaging).
+(Fedora) Linux enthusiast and contributor (mostly testing and an ever-growing packaging role).
 </p>
 
 [Personal Research Overview](https://mefuller.github.io)
