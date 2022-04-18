@@ -1,6 +1,8 @@
 **Mark E. Fuller, Ph.D. - Research Engineer**
 
 <img src="https://img.shields.io/badge/If it has to be fast-It has to be FORTRAN-yellow" height="20" alt="FORTRAN"/>
+<a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" height="20"alt="Black"/>
+  
 <a href="https://pgp.mit.edu/pks/lookup?search=mark.e.fuller%40gmx.de&op=index"><img src="https://img.shields.io/badge/PGP-73F1%20A30C%20BDF4%20DB4B%20C75F%20FD0F%20D599%20E76C%20FFCA%20BF60-blue" height="20" alt="PGP key"/>
 
 <a href="https://matrix.to/#/@mefuller:matrix.org"><img src="https://img.shields.io/badge/Matrix-@fuller:one.ems.host-blue" height="20" alt="Matrix"/></a>
