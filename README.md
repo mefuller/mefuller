@@ -25,7 +25,9 @@ Strong interest in developing and supporting open [standards](https://github.com
 
 <noscript><a href="https://liberapay.com/fuller/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
-![Fuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefuller&theme=default&show_icons=true)
+![Fuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefuller&theme=solarized-dark&show_icons=true)
+  
+
 
 
 
