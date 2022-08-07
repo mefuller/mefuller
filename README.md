@@ -1,5 +1,7 @@
 **Mark E. Fuller, Ph.D. - Research Engineer**
 
+***Time Magazine's 2006 Person of the Year***
+
 <img src="https://img.shields.io/badge/If it has to be fast-It has to be FORTRAN-yellow" height="20" alt="FORTRAN"/>
 <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" height="20"alt="Black"/>
   
