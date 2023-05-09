@@ -12,7 +12,7 @@
 
 
 <p>
-Currently working as DevOps/MLOps engineer, formerly research engineer in combustion chemistry, energy systems, and air pollution as various chemical and mechanical engineering departments.
+Currently working as DevOps/MLOps engineer, formerly research engineer in combustion chemistry, energy systems, and air pollution at various chemical and mechanical engineering departments.
 
 Open science and open software end-user, advocate, and contributor.
 
