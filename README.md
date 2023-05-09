@@ -25,8 +25,6 @@ Strong interest in developing and supporting open [standards](https://github.com
 
 [Cantera RPM Builds in Fedora and EPEL repositories](https://src.fedoraproject.org/rpms/cantera)
 
-<noscript><a href="https://liberapay.com/fuller/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
 ![Fuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=mefuller&theme=solarized-dark&show_icons=true)
   
 
