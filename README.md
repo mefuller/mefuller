@@ -12,7 +12,8 @@
 
 
 <p>
-Currently working as DevOps/MLOps engineer, formerly research engineer in combustion chemistry, energy systems, and air pollution at various chemical and mechanical engineering departments.
+Research engineer in combustion chemistry, energy systems, and air pollution at various chemical and mechanical engineering departments.
+Moonlighting in devops and packaging.
 
 Open science and open software end-user, advocate, and contributor.
 
